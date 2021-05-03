@@ -11,6 +11,9 @@ this is feature2
 this is feature2
 this is feature2
 this is feature2
+==================
+checking from git to github without username and password
+======================================================
 
 
 
